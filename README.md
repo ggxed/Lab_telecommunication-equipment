@@ -1,2 +1,3 @@
-# design-technology-and-operation-of-telecommunication-equipment
-Intercept packets via http protocol, collect from packets in a separate folder pictures from the site.
+# Анализ и эмулирование сетевого трафика в сетях стандарта 802.3 #
+
+Целью данной программы было перехватить пакеты по протоколу http, собрать из пакетов в отдельную папку картинки с сайта.
